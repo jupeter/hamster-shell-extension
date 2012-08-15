@@ -4,13 +4,14 @@
     "name": "Project Hamster Extension",
     "original-authors": [
         "jerome@oufella.com",
-        "toms.baugis@gmail.com"
+        "toms.baugis@gmail.com",
+        "piotr.plenik@gmail.com"
     ],
     "settings-schema": "org.gnome.shell.extensions.project-hamster",
     "shell-version": [
         "3.4"
     ],
-    "url": "https://github.com/tbaugis/hamster-shell-extension",
-    "uuid": "hamster@projecthamster.wordpress.com",
+    "url": "https://github.com/jupeter/hamster-shell-extension",
+    "uuid": "gnome-shell-hamster@teamlab.pl",
     "version": 2
 }
